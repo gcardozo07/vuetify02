@@ -6,7 +6,7 @@
     <v-container class="pa-0">
       <v-row>
         <v-col class="pa-0" cols="12" md="12">
-          <div class="content py-16">
+          <div class="content py-10">
             <Sidebar @accion="mostrar" />
             <v-row>
               <v-col class="content-col-1" cols="12" md="6">

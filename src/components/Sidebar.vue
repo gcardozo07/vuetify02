@@ -38,8 +38,8 @@ export default {
 <style>
 
 .fix {
-  position: absolute;
+  position: fixed;
   top: 1.5rem;
-  right: 6rem;
+  right: 5.5rem;
 }
 </style>

@@ -92,7 +92,7 @@ a.router-link-exact-active {
   text-decoration: none;
   border: 1px solid #fff;
   transition: all 0.3s ease 0s;
-  padding: 5px 10px;
+  padding: 0.2rem 0.2rem;
 }
 
 .sidebar {
